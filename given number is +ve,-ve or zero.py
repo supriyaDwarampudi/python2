@@ -11,12 +11,7 @@ else:
     
     
     
-    
-    
-    
-    
-    
-    
+
     
     output:
         Enter a number12
