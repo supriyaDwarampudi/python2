@@ -9,7 +9,7 @@
 
 #    OR
 r=[13,14,15,17,28,29,31]
-print(sum(r)
+print(sum(r))
 
       # output:
       #   147

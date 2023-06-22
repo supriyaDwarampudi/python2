@@ -19,6 +19,7 @@ if c==3:
 
     output:-
 
+
 Welcome to game
 You have 3 choices
 Enter your choices:2

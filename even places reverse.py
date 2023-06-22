@@ -13,10 +13,10 @@ d=" ".join(m)
 print(d)
 
 
-output:-
-['My', 'name', 'is', 'priya']
-['My']
-['My', 'eman']
-['My', 'eman', 'is']
-['My', 'eman', 'is', 'ayirp']
-My eman is ayirp
+# output:-
+# ['My', 'name', 'is', 'priya']
+# ['My']
+# ['My', 'eman']
+# ['My', 'eman', 'is']
+# ['My', 'eman', 'is', 'ayirp']
+# My eman is ayirp
